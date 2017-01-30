@@ -25,4 +25,4 @@ Jarvis: La détection de mouvement est arrêtée
 ```
 
 ## Author
-[Wikijm](https://github.com/wikijm)
+[WikiJM](https://github.com/wikijm)
