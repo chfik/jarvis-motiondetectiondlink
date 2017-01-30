@@ -1,0 +1,2 @@
+*ALLUM*DETECTION*|*LANC*DETECTION*|*DEMARR*DETECTION*==say "La détection de mouvement sera active d'ici 15 secondes" && "${motiondetection_cmdenable}"
+*ETEIN*DETECTION*|*ARRET*DETECTION*|*STOP*DETECTION*==say "La détection de mouvement est arrêtée" && "${motiondetection_cmddisable}"
