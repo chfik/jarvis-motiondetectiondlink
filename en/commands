@@ -1,2 +1,2 @@
 *SWITCH ON MOTION DETECTION*|*START MOTION DETECTION*|*ENABLE MOTION DETECTION*==say "Motion detection will be active within 15 seconds. Have a nice day." && sleep 15 && pg_mdd_cmdenable
-*SWITCH OFF MOTION DETECTION*|*STOP MOTION DETECTION*|*DISABLE MOTION DETECTION*==say "La détection de mouvement est arrêtée" && pg_mdd_cmddisable
+*SWITCH OFF MOTION DETECTION*|*STOP MOTION DETECTION*|*DISABLE MOTION DETECTION*==say "Motion detection is stopped." && pg_mdd_cmddisable
