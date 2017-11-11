@@ -1,2 +1,2 @@
-motiondetectiondlink_camip='X.X.X.X'
-motiondetectiondlink_camauthcode=''
+pg_mdd_camip='X.X.X.X'
+pg_mdd_camauthcode=''
